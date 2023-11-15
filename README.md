@@ -1,11 +1,10 @@
 # Augmented-reality-for-Extinct-Animals
  The Aim of the project is to develop an Android-based application that showcases endangered and extinct species in three dimensions using augmented reality (AR).
 ## Features
-```
- Bring extinct species to life using augmented reality.
- Offer interactive learning experiences to enhance understanding
- Ensure compatibility with various Android devices for broad accessibility
- Educate the public about extinct species to raise awareness.
+1. Bring extinct species to life using augmented reality.
+2. Offer interactive learning experiences to enhance understanding
+3. Ensure compatibility with various Android devices for broad accessibility
+4.  Educate the public about extinct species to raise awareness.
 ```
  ## Requirements
  ```
