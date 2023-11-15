@@ -1,10 +1,12 @@
 # Augmented-reality-for-Extinct-Animals
  The Aim of the project is to develop an Android-based application that showcases endangered and extinct species in three dimensions using augmented reality (AR).
 ## Features
+```
  Bring extinct species to life using augmented reality.
  Offer interactive learning experiences to enhance understanding
  Ensure compatibility with various Android devices for broad accessibility
  Educate the public about extinct species to raise awareness.
+```
  ## Requirements
  Unity(latest version) for project development.
  VUFORIA QUALCOMM(latest version) installation for project development.
@@ -114,12 +116,13 @@ public class wolfcontroller : MonoBehaviour
 
 
 ## Result:
+```
   The project successfully developed an Android-based application that utilizes augmented reality (AR) to bring extinct species to life in 3D.
     1.It gives you an Engaging AR Experience
     2.User-Friendly Design
     3.Immersive 3D experience and engaging content can make learning about extinct species more enjoyable and memorable.
   Thus the project has successfully developed an innovative and impactful application that utilizes AR technology to educate and inspire individuals about the importance of extinct species.
 
-
+```
 
  
