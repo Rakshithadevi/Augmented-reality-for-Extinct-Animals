@@ -5,11 +5,11 @@
 2. Offer interactive learning experiences to enhance understanding
 3. Ensure compatibility with various Android devices for broad accessibility
 4.  Educate the public about extinct species to raise awareness.
-```
+
  ## Requirements
  ```
- Unity(latest version) for project development.
- VUFORIA QUALCOMM(latest version) installation for project development.
+ 1. Unity(latest version) for project development.
+ 2. VUFORIA QUALCOMM(latest version) installation for project development.
 ```
  ## Flow chart
  ![image](https://github.com/Rakshithadevi/Augmented-reality-for-Extinct-Animals/assets/94165326/9b4c3af3-70dd-4c53-baac-9b7f30628c9f)
@@ -20,8 +20,8 @@
    ```
   ### 2.Install the required packages
   ```
-    unity package
-    VUFORIA QUALCOMM package
+  1. Unity package
+  2. VUFORIA QUALCOMM package
   ```
     
 ## Usage:
