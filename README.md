@@ -20,6 +20,11 @@
        https://github.com/Rakshithadevi/Augmented-reality-for-Extinct-Animals
    ```
   ### 2.Install the required packages
+  ```
+    unity package
+    VUFORIA QUALCOMM package
+  ```
+    
 ## Usage:
 ```
 1.The application uses a marker card of two extinct animal to recognize and track the position of the user's smartphone.
