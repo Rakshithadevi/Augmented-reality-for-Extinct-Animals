@@ -102,22 +102,23 @@ public class wolfcontroller : MonoBehaviour
 
 ### AR image of Marker1:
 
-![image](https://github.com/Rakshithadevi/Augmented-reality-for-Extinct-Animals/assets/94165326/95dbb0a3-96cd-4f9f-8e83-911b61e4ab03)
+![image](https://github.com/Rakshithadevi/Augmented-reality-for-Extinct-Animals/assets/94165326/9190ba7e-a967-42e7-8f79-d91e0b497b33)
 
 
 ### AR image of Marker2:
 
-![image](https://github.com/Rakshithadevi/Augmented-reality-for-Extinct-Animals/assets/94165326/b18f01de-9e04-49a3-b369-02a3b96357e3)
+![image](https://github.com/Rakshithadevi/Augmented-reality-for-Extinct-Animals/assets/94165326/d97b629b-46b2-4c29-a32e-2bf81156863a)
+
 
 
 
 
 ## Result:
-The project successfully developed an Android-based application that utilizes augmented reality (AR) to bring extinct species to life in 3D.
-  1.It gives you an Engaging AR Experience
-  2.User-Friendly Design
-  3.Immersive 3D experience and engaging content can make learning about extinct species more enjoyable and memorable.
-Thus the project has successfully developed an innovative and impactful application that utilizes AR technology to educate and inspire individuals about the importance of extinct species.
+  The project successfully developed an Android-based application that utilizes augmented reality (AR) to bring extinct species to life in 3D.
+    1.It gives you an Engaging AR Experience
+    2.User-Friendly Design
+    3.Immersive 3D experience and engaging content can make learning about extinct species more enjoyable and memorable.
+  Thus the project has successfully developed an innovative and impactful application that utilizes AR technology to educate and inspire individuals about the importance of extinct species.
 
 
 
